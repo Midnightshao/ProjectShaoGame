@@ -1,0 +1,111 @@
+
+bodyname.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armgun
+  rotate: false
+  xy: 352, 387
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+body1/arm_副本
+  rotate: false
+  xy: 869, 387
+  size: 135, 486
+  orig: 135, 486
+  offset: 0, 0
+  index: -1
+body1/arm1_副本
+  rotate: false
+  xy: 272, 672
+  size: 170, 244
+  orig: 170, 244
+  offset: 0, 0
+  index: -1
+body1/legL
+  rotate: false
+  xy: 817, 1
+  size: 196, 384
+  orig: 196, 384
+  offset: 0, 0
+  index: -1
+body1/legL1
+  rotate: false
+  xy: 1006, 387
+  size: 114, 418
+  orig: 114, 418
+  offset: 0, 0
+  index: -1
+body1/legL2
+  rotate: false
+  xy: 1, 885
+  size: 233, 124
+  orig: 233, 124
+  offset: 0, 0
+  index: -1
+body1/legR
+  rotate: false
+  xy: 1, 1
+  size: 349, 389
+  orig: 349, 389
+  offset: 0, 0
+  index: -1
+body1/body
+  rotate: false
+  xy: 661, 392
+  size: 206, 482
+  orig: 206, 482
+  offset: 0, 0
+  index: -1
+body1/head
+  rotate: false
+  xy: 272, 392
+  size: 387, 278
+  orig: 389, 280
+  offset: 1, 1
+  index: -1
+body1/arm1
+  rotate: false
+  xy: 352, 169
+  size: 208, 206
+  orig: 208, 206
+  offset: 0, 0
+  index: -1
+body1/kua
+  rotate: false
+  xy: 444, 672
+  size: 170, 171
+  orig: 172, 173
+  offset: 1, 1
+  index: -1
+body1/arm
+  rotate: false
+  xy: 869, 875
+  size: 318, 109
+  orig: 318, 109
+  offset: 0, 0
+  index: -1
+body1/armgun
+  rotate: false
+  xy: 352, 1
+  size: 463, 166
+  orig: 465, 168
+  offset: 1, 1
+  index: -1
+body1/legR1
+  rotate: false
+  xy: 1, 392
+  size: 269, 491
+  orig: 269, 491
+  offset: 0, 0
+  index: -1
+body1/legR2
+  rotate: false
+  xy: 562, 169
+  size: 220, 167
+  orig: 220, 167
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+body1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+neck
+  rotate: false
+  xy: 409, 231
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+rear-upper-arm
+  rotate: false
+  xy: 168, 75
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 134, 152
+  size: 105, 102
+  orig: 105, 102
+  offset: 0, 0
+  index: -1
+rear-bracer
+  rotate: false
+  xy: 194, 75
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 1
+  size: 136, 149
+  orig: 136, 149
+  offset: 0, 0
+  index: -1
+eye-surprised
+  rotate: false
+  xy: 439, 152
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+front-shin
+  rotate: false
+  xy: 292, 152
+  size: 41, 92
+  orig: 41, 92
+  offset: 1, 0
+  index: -1
+front-thigh
+  rotate: false
+  xy: 139, 33
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+rear-thigh
+  rotate: false
+  xy: 374, 189
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 241, 152
+  size: 49, 90
+  orig: 49, 90
+  offset: 0, 0
+  index: -1
+rear-foot
+  rotate: false
+  xy: 409, 199
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+front-upper-arm
+  rotate: false
+  xy: 139, 91
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+front-foot
+  rotate: false
+  xy: 374, 152
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+rear-shin
+  rotate: false
+  xy: 335, 152
+  size: 37, 89
+  orig: 38, 89
+  offset: 1, 0
+  index: -1
+goggles
+  rotate: false
+  xy: 1, 152
+  size: 131, 83
+  orig: 131, 83
+  offset: 0, 0
+  index: -1
+front-bracer
+  rotate: false
+  xy: 165, 33
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+mouth-smile
+  rotate: false
+  xy: 139, 1
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+front-fist-closed
+  rotate: false
+  xy: 468, 199
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1

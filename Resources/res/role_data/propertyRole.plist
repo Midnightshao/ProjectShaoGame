@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HP</key>
+	<integer>100</integer>
+	<key>ID</key>
+	<integer>1</integer>
+	<key>ATK</key>
+	<integer>25</integer>
+	<key>Speed</key>
+	<integer>4</integer>
+	<key>Bullet</key>
+	<integer>15</integer>
+	<key>PlayerName</key>
+	<string>打怪</string>
+</dict>
+</plist>

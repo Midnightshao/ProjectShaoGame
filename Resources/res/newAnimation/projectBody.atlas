@@ -1,0 +1,132 @@
+
+projectBody.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+neck
+  rotate: false
+  xy: 1, 469
+  size: 35, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+rear-upper-arm
+  rotate: false
+  xy: 958, 296
+  size: 47, 87
+  orig: 47, 87
+  offset: 0, 0
+  index: -1
+rear-bracer
+  rotate: false
+  xy: 274, 1
+  size: 55, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 264, 301
+  size: 210, 203
+  orig: 210, 203
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 1
+  size: 271, 298
+  orig: 271, 298
+  offset: 0, 0
+  index: -1
+front-foot
+  rotate: false
+  xy: 735, 301
+  size: 126, 69
+  orig: 126, 69
+  offset: 0, 0
+  index: -1
+eye-surprised
+  rotate: false
+  xy: 863, 301
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+rear-thigh
+  rotate: false
+  xy: 850, 392
+  size: 65, 103
+  orig: 65, 104
+  offset: 0, 1
+  index: -1
+front-thigh
+  rotate: false
+  xy: 958, 1
+  size: 48, 112
+  orig: 48, 112
+  offset: 0, 0
+  index: -1
+front-shin
+  rotate: false
+  xy: 576, 301
+  size: 81, 184
+  orig: 82, 184
+  offset: 1, 0
+  index: -1
+torso
+  rotate: false
+  xy: 476, 301
+  size: 98, 180
+  orig: 98, 180
+  offset: 0, 0
+  index: -1
+rear-foot
+  rotate: false
+  xy: 735, 372
+  size: 113, 60
+  orig: 113, 60
+  offset: 0, 0
+  index: -1
+front-upper-arm
+  rotate: false
+  xy: 958, 115
+  size: 54, 97
+  orig: 54, 97
+  offset: 0, 0
+  index: -1
+rear-shin
+  rotate: false
+  xy: 659, 301
+  size: 74, 178
+  orig: 75, 178
+  offset: 1, 0
+  index: -1
+goggles
+  rotate: false
+  xy: 1, 301
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+front-bracer
+  rotate: false
+  xy: 958, 214
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+mouth-smile
+  rotate: false
+  xy: 735, 434
+  size: 93, 59
+  orig: 93, 59
+  offset: 0, 0
+  index: -1
+front-fist-closed
+  rotate: false
+  xy: 917, 392
+  size: 75, 82
+  orig: 75, 82
+  offset: 0, 0
+  index: -1
